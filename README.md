@@ -5,9 +5,9 @@ NeuVector Full Lifecycle Container Security Platform delivers the only cloud-nat
 A viewable version of docs can be seen at https://open-docs.neuvector.com.
 
 The images are on the NeuVector Docker Hub registry. Use the appropriate version tag for the manager, controller, enforcer, and leave the version as 'latest' for scanner and updater. For example:
-+ neuvector/manager:5.0.0
-+ neuvector/controller:5.0.0
-+ neuvector/enforcer:5.0.0
++ neuvector/manager:5.0.1
++ neuvector/controller:5.0.1
++ neuvector/enforcer:5.0.1
 + neuvector/scanner:latest
 + neuvector/updater:latest
 
